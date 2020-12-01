@@ -87,5 +87,93 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Silent Night",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Silent night holy night",
+          "All is calm I’m singin’ all is bright",
+          "‘Round yon virgin mother and Child",
+          "Holy Infant so tender and mild",
+          "Sleep in heavenly peace",
+          "Oh sleep in heavenly peace"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Silent night holy night",
+          "Shepherds quake oh at the sight",
+          "Glories stream from heaven afar",
+          "Heavenly hosts sing alleluia",
+          "Christ the Savior is born",
+          "Christ the Savior is born"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Silent night holy night",
+          "Son of God oh love's pure light",
+          "Radiant beams from Thy holy face",
+          "With the dawn of redeeming grace",
+          "Jesus Lord at Thy birth",
+          "Jesus Lord at Thy birth"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Joy To The World",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Joy to the world the Lord is come",
+          "Let earth receive her King",
+          "Let ev'ry heart prepare Him room",
+          "And heav'n and nature sing",
+          "And heav'n and nature sing",
+          "And heav'n and heav'n and nature sing"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Joy to the earth the Savior reigns",
+          "Let men their songs employ",
+          "While fields and floods",
+          "Rocks hills and plains",
+          "Repeat the sounding joy",
+          "Repeat the sounding joy",
+          "Repeat repeat the sounding joy"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "No more let sins and sorrows grow",
+          "Nor thorns infest the ground",
+          "He comes to make His blessings flow",
+          "Far as the curse is found",
+          "Far as the curse is found",
+          "Far as far as the curse is found"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "He rules the world with truth and grace",
+          "And makes the nations prove",
+          "The glories of His righteousness",
+          "And wonders of His love",
+          "And wonders of His love",
+          "And wonders wonders of His love"
+        ]
+      }
+    ]
   }
 ]
