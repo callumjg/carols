@@ -17,6 +17,37 @@
     />
   </head>
   <body>
-    <app-root></app-root>
+    <app-root>
+      <div class="tmp-container">
+        <div class="loader"></div>
+      </div>
+      <style>
+        .tmp-container {
+          position: fixed;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .loader {
+          border: 0.6rem solid #f3f3f3; /* Light grey */
+          border-top: 0.6rem solid rgb(23, 99, 95); /* Blue */
+          border-radius: 50%;
+          width: 4rem;
+          height: 4rem;
+          animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+      </style>
+    </app-root>
   </body>
 </html>
