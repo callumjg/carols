@@ -5,6 +5,6 @@ git stash
 git checkout master
 git pull
 yarn
-ng build
+ng build --prod=true
 rm -rf /var/www/html/*
 cp dist/carols/* /var/www/html/
