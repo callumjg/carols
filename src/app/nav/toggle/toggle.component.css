@@ -1,0 +1,39 @@
+.toggle {
+  width: 50px;
+  height: 50px;
+  border: none;
+  font-size: inherit;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 14px 10px;
+  position: fixed;
+  top: 3%;
+  right: 3%;
+  z-index: 9999;
+  background: white;
+  box-shadow: 1px 1px 10px 3px rgba(150, 150, 150, 0.3);
+}
+
+.toggle div {
+  background-color: #666;
+  border-radius: 2px;
+  height: 4px;
+  width: 100%;
+  transition: 200ms;
+}
+
+.toggle div:not(:first-child) {
+  margin: 5px 0 5px 0;
+}
+
+.toggle.open .bar1 {
+  transform: translate(0, 9px) rotate(45deg);
+}
+
+.toggle.open .bar2 {
+  opacity: 0;
+}
+
+.toggle.open .bar3 {
+  transform: translate(0, -9px) rotate(-45deg);
+}

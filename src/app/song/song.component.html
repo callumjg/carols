@@ -1,2 +1,5 @@
-<h2>{{ song.title }}</h2>
-<app-stanza *ngFor="let stanza of song.lyrics" [stanza]="stanza"></app-stanza>
+<div class="song" [id]="song.title">
+  <h2>{{ song.title }}</h2>
+  <br />
+  <app-stanza *ngFor="let stanza of song.lyrics" [stanza]="stanza"></app-stanza>
+</div>

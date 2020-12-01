@@ -1,0 +1,7 @@
+<div [ngClass]="{ 'app-menu': true, open: isOpen }">
+  <ul>
+    <li *ngFor="let song of songs" (click)="onSongSelect(song.title)">
+      {{ song.title }}
+    </li>
+  </ul>
+</div>

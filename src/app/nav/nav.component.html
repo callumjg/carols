@@ -1,0 +1,7 @@
+<!-- <app-menu></app-menu> -->
+<app-toggle [isOpen]="isOpen" (isOpenChange)="setOpen($event)"></app-toggle>
+<app-menu
+  [isOpen]="isOpen"
+  (isOpenChange)="setOpen($event)"
+  [songs]="songs"
+></app-menu>
