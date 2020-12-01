@@ -1,0 +1,58 @@
+[
+  {
+    "title": "O Come All Ye Faithful (Adeste Fideles)",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "O come all ye faithful",
+          "Joyful and triumphant",
+          "O come ye O come ye to Bethlehem",
+          "Come and behold Him",
+          "Born the King of angels"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "Christ the Lord"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Sing choirs of angels",
+          "Sing in exultation",
+          "O sing all ye bright",
+          "Hosts of heav'n above",
+          "Glory to God all",
+          "Glory in the highest"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Sing choirs of angels",
+          "Sing in exultation",
+          "O sing all ye bright",
+          "Hosts of heav'n above",
+          "Glory to God all",
+          "Glory in the highest"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Yea Lord we greet Thee",
+          "Born this happy morning",
+          "Jesus to Thee be all glory giv'n",
+          "Word of the Father",
+          "Now in flesh appearing"
+        ]
+      }
+    ]
+  }
+]
