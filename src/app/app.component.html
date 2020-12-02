@@ -1,4 +1,8 @@
 <app-nav [songs]="songs"></app-nav>
 <div class="container">
-  <app-song *ngFor="let song of songs" [song]="song"></app-song>
+  <div *ngFor="let song of songs; let i = index">
+    <app-song [song]="song"></app-song>
+    <hr *ngIf="i !== songs.length - 1" />
+  </div>
 </div>
+<app-footer></app-footer>

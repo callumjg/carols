@@ -7,9 +7,10 @@ import { StanzaComponent } from './song/stanza/stanza.component';
 import { NavComponent } from './nav/nav.component';
 import { ToggleComponent } from './nav/toggle/toggle.component';
 import { MenuComponent } from './nav/menu/menu.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
-  declarations: [AppComponent, SongComponent, StanzaComponent, NavComponent, ToggleComponent, MenuComponent],
+  declarations: [AppComponent, SongComponent, StanzaComponent, NavComponent, ToggleComponent, MenuComponent, FooterComponent],
   imports: [BrowserModule],
   providers: [],
   bootstrap: [AppComponent],
