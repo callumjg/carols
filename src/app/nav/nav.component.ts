@@ -7,7 +7,12 @@ import { Component, Inject, Input, OnInit } from '@angular/core';
   styleUrls: ['./nav.component.css'],
 })
 export class NavComponent implements OnInit {
-  isOpen = false;
+  private _isOpen = false;
+  @Input() set isOpen(v) {
+    this._isOpen = v;
+    const overflow = v ? 'hidden' : '';
+    this.document.body.style.overflow = overflow;
+  }
 
   @Input() songs;
 
@@ -15,9 +20,7 @@ export class NavComponent implements OnInit {
 
   ngOnInit(): void {}
 
-  setOpen(v) {
-    this.isOpen = v;
-    const overflow = v ? 'hidden' : '';
-    this.document.body.style.overflow = overflow;
+  get isOpen() {
+    return this._isOpen;
   }
 }
