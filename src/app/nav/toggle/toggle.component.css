@@ -9,7 +9,7 @@
   position: fixed;
   top: 3%;
   right: 3%;
-  z-index: 9999;
+  z-index: 9999999;
   background: white;
   box-shadow: 1px 1px 10px 3px rgba(150, 150, 150, 0.3);
 }
