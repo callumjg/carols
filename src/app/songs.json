@@ -56,34 +56,110 @@
     ]
   },
   {
-    "title": "Away In A Manger",
+    "title": "Angels From The Realms Of Glory",
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
-          "Away in a manger no crib for a bed",
-          "The little Lord Jesus laid down His sweet head",
-          "The stars in the bright sky look down where He lay",
-          "The little Lord Jesus asleep on the hay"
+          "Angels from the realms of glory",
+          "Wing your flight o'er all the earth",
+          "Ye who sang creation's story",
+          "Now proclaim Messiah's birth"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "Come and worship",
+          "Christ the newborn King",
+          "Come and worship",
+          "Worship Christ the newborn King"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "The cattle are lowing the Baby awakes",
-          "But little Lord Jesus no crying He makes",
-          "I love Thee Lord Jesus look down from the sky",
-          "And stay by my cradle 'til morning is nigh"
+          "Shepherds in the fields abiding",
+          "Watching o'er your flocks by night",
+          "God with man is now residing",
+          "Yonder shines the infant-light"
         ]
       },
       {
         "label": "Verse 3",
         "lines": [
-          "Be near me Lord Jesus I ask Thee to stay",
-          "Close by me forever and love me I pray",
-          "Bless all the dear children in Thy tender care",
-          "And fit us for Heaven to live with Thee there",
-          "And fit us for Heaven to live with Thee there"
+          "Sages leave your contemplations",
+          "Brighter visions beam afar",
+          "Seek the great desire of nations",
+          "Ye have seen His natal star"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "Saints before the altar bending",
+          "Watching long in hope and fear",
+          "Suddenly the Lord descending",
+          "In His temple shall appear"
+        ]
+      },
+      {
+        "label": "Verse 5",
+        "lines": [
+          "All creation join in praising",
+          "God the Father Spirit Son",
+          "Evermore your voices raising",
+          "To th'eternal Three in One"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hark The Herald Angels Sing",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Hark the herald angels sing",
+          "Glory to the newborn King",
+          "Peace on earth and mercy mild",
+          "God and sinners reconciled",
+          "Joyful all ye nations rise",
+          "Join the triumph of the skies",
+          "With th'angelic hosts proclaim",
+          "Christ is born in Bethlehem",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Christ by highest heav'n adored",
+          "Christ the everlasting Lord",
+          "Late in time behold Him come",
+          "Offspring of the Virgin's womb",
+          "Veiled in flesh the Godhead see",
+          "Hail th'incarnate Deity",
+          "Pleased as man with men to dwell",
+          "Jesus our Emmanuel",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Hail the heav'n-born Prince of Peace",
+          "Hail the Sun of Righteousness",
+          "Light and life to all He brings",
+          "Ris'n with healing in His wings",
+          "Mild He lays His glory by",
+          "Born that man no more may die",
+          "Born to raise the sons of earth",
+          "Born to give them second birth",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
         ]
       }
     ]
@@ -122,6 +198,345 @@
           "With the dawn of redeeming grace",
           "Jesus Lord at Thy birth",
           "Jesus Lord at Thy birth"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "On That Very First Christmas",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Mary and Joseph go to Bethlehem",
+          "Bethlehem",
+          "Bethlehem",
+          "Mary and Joseph go to Bethlehem",
+          "On that very first Christmas"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Baby Jesus born that night",
+          "Born that night",
+          "Born that night",
+          "Baby Jesus born that night",
+          "On that very first Christmas"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "The wise men come to worship Him",
+          "Worship Him",
+          "Worship Him",
+          "The wise men come to worship Him",
+          "On that very first Christmas"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "The shepherds told that the King is born",
+          "The King is born",
+          "The King is born",
+          "The shepherds told that the King is born",
+          "On that very first Christmas"
+        ]
+      },
+      {
+        "label": "Verse 5",
+        "lines": [
+          "The angels singing glory to God",
+          "Glory to God",
+          "Glory to God",
+          "The angels singing glory to God",
+          "On that very first Christmas"
+        ]
+      },
+      {
+        "label": "Verse 6",
+        "lines": [
+          "Mary and Joseph go to Bethlehem",
+          "Baby Jesus born that night",
+          "The wise men come to worship Him",
+          "The shepherds told that the King is born",
+          "The angels singing glory to God",
+          "On that very first Christmas"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O Holy Night",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "O holy night the stars are brightly shining",
+          "It is the night of the dear Savior's birth",
+          "Long lay the world in sin and error pining",
+          "Till He appeared and the soul felt its worth",
+          "A thrill of hope the weary world rejoices",
+          "For yonder breaks a new and glorious morn"
+        ]
+      },
+      {
+        "label": "Chorus 1",
+        "lines": [
+          "Fall on your knees",
+          "O hear the angel voices",
+          "O night divine",
+          "O night when Christ was born",
+          "O night O holy night",
+          "O night divine"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Led by the light of faith serenely beaming",
+          "With glowing hearts by His cradle we stand",
+          "So led by light of a star sweetly gleaming",
+          "Here came the wise men from Orient land",
+          "The King of kings lay thus in lowly manger",
+          "In all our trials born to be our Friend"
+        ]
+      },
+      {
+        "label": "Chorus 2",
+        "lines": [
+          "He knows our need",
+          "To our weakness is no stranger",
+          "Behold your King",
+          "Before Him lowly bend",
+          "Behold your King",
+          "Before Him lowly bend"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Truly He taught us to love one another",
+          "His law is love and His gospel is peace",
+          "Chains shall He break for the slave is our brother",
+          "And in His name all oppression shall cease",
+          "Sweet hymns of joy in grateful chorus raise we",
+          "Let all within us praise His holy name"
+        ]
+      },
+      {
+        "label": "Chorus 3",
+        "lines": [
+          "Christ is the Lord",
+          "O praise His name forever",
+          "His power and glory",
+          "Evermore proclaim",
+          "His power and glory",
+          "Evermore proclaim"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Away In A Manger",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Away in a manger no crib for a bed",
+          "The little Lord Jesus laid down His sweet head",
+          "The stars in the bright sky look down where He lay",
+          "The little Lord Jesus asleep on the hay"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "The cattle are lowing the Baby awakes",
+          "But little Lord Jesus no crying He makes",
+          "I love Thee Lord Jesus look down from the sky",
+          "And stay by my cradle 'til morning is nigh"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Be near me Lord Jesus I ask Thee to stay",
+          "Close by me forever and love me I pray",
+          "Bless all the dear children in Thy tender care",
+          "And fit us for Heaven to live with Thee there",
+          "And fit us for Heaven to live with Thee there"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "While Shepherds Watched",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "While shepherds watched",
+          "Their flocks by night",
+          "All seated on the ground",
+          "The angel of the Lord came down",
+          "And glory shone around"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Fear not said he for mighty dread",
+          "Had seized their troubled mind",
+          "Glad tidings of great joy I bring",
+          "To you and all mankind"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "To you in David's town this day",
+          "Is born of David's line",
+          "A Saviour who is Christ the Lord",
+          "And this shall be the sign"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "The heavenly babe you there shall find",
+          "To human view displayed",
+          "All meanly wrapped in swaddling bands",
+          "And in a manger laid"
+        ]
+      },
+      {
+        "label": "Verse 5",
+        "lines": [
+          "Thus spake the seraph and forthwith",
+          "Appeared a shining throng",
+          "Of angels praising God who thus",
+          "Addressed their joyful song"
+        ]
+      },
+      {
+        "label": "Verse 6",
+        "lines": [
+          "All glory be to God on high",
+          "And on the earth be peace",
+          "Goodwill hence forth",
+          "From heaven to men",
+          "Begin and never cease"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Once In Royal David's City",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Once in royal David's city",
+          "Stood a lowly cattle shed",
+          "Where a mother laid her baby",
+          "In a manger for His bed",
+          "Mary was that mother mild",
+          "Jesus Christ her little child"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "He came down to earth from heaven",
+          "Who is God and Lord of all",
+          "And His shelter was a stable",
+          "And His cradle was a stall",
+          "With the poor and meek and lowly",
+          "Lived on earth our Savior holy"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Jesus is our childhood's pattern",
+          "Day by day like us He grew",
+          "He was little weak and helpless",
+          "Tears and smiles like us He knew",
+          "And He feels for all our sadness",
+          "And He shares in all our gladness"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "And our eyes at last shall see Him",
+          "Through His own redeeming love",
+          "For that child so dear and gentle",
+          "Is our Lord in heaven above",
+          "And He leads His children on",
+          "To the place where He has gone"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "We Three Kings",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "We three kings of Orient are",
+          "Bearing gifts we traverse afar",
+          "Field and fountain moor and mountain",
+          "Following yonder star"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "O star of wonder star of night",
+          "Star with royal beauty bright",
+          "Westward leading still proceeding",
+          "Guide us to Thy perfect light"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Born a King on Bethlehem's plain",
+          "Gold I bring to crown Him again",
+          "King forever ceasing never",
+          "Over us all to reign"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Frankincense to offer have I",
+          "Incense owns a Deity nigh",
+          "Prayer and praising all men raising",
+          "Worship Him God on high"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "Myrrh is mine its bitter perfume",
+          "Breathes a life of gathering gloom",
+          "Sorrowing sighing bleeding dying",
+          "Sealed in the stone cold tomb"
+        ]
+      },
+      {
+        "label": "Verse 5",
+        "lines": [
+          "Glorious now behold Him arise",
+          "King and God and sacrifice",
+          "Alleluia alleluia",
+          "Peals through the earth and skies"
         ]
       }
     ]
