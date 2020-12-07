@@ -26,20 +26,9 @@
         "lines": [
           "Sing choirs of angels",
           "Sing in exultation",
-          "O sing all ye bright",
-          "Hosts of heav'n above",
-          "Glory to God all",
-          "Glory in the highest"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "Sing choirs of angels",
-          "Sing in exultation",
-          "O sing all ye bright",
-          "Hosts of heav'n above",
-          "Glory to God all",
+          "Sing all ye citizens",
+          "Of heav'n above",
+          "Glory to God",
           "Glory in the highest"
         ]
       },
@@ -56,14 +45,14 @@
     ]
   },
   {
-    "title": "Angels From The Realms Of Glory",
+    "title": "Angels From The Realms Of Glory ",
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
           "Angels from the realms of glory",
           "Wing your flight o'er all the earth",
-          "Ye who sang creation's story",
+          "You who sang creation's story",
           "Now proclaim Messiah's birth"
         ]
       },
@@ -79,23 +68,14 @@
       {
         "label": "Verse 2",
         "lines": [
-          "Shepherds in the fields abiding",
+          "Shepherds in the field abiding",
           "Watching o'er your flocks by night",
-          "God with man is now residing",
-          "Yonder shines the infant-light"
+          "God with us is now residing",
+          "Yonder shines the infant light"
         ]
       },
       {
         "label": "Verse 3",
-        "lines": [
-          "Sages leave your contemplations",
-          "Brighter visions beam afar",
-          "Seek the great desire of nations",
-          "Ye have seen His natal star"
-        ]
-      },
-      {
-        "label": "Verse 4",
         "lines": [
           "Saints before the altar bending",
           "Watching long in hope and fear",
@@ -104,12 +84,12 @@
         ]
       },
       {
-        "label": "Verse 5",
+        "label": "Verse 4",
         "lines": [
-          "All creation join in praising",
-          "God the Father Spirit Son",
-          "Evermore your voices raising",
-          "To th'eternal Three in One"
+          "Though an infant now we view Him",
+          "He shall fill His Father's throne",
+          "Gather all the nations to Him",
+          "Every knee shall then bow down"
         ]
       }
     ]
@@ -126,7 +106,7 @@
           "God and sinners reconciled",
           "Joyful all ye nations rise",
           "Join the triumph of the skies",
-          "With th'angelic hosts proclaim",
+          "With angelic hosts proclaim",
           "Christ is born in Bethlehem",
           "Hark the herald angels sing",
           "Glory to the newborn King"
@@ -151,7 +131,7 @@
         "label": "Verse 3",
         "lines": [
           "Hail the heav'n-born Prince of Peace",
-          "Hail the Sun of Righteousness",
+          "Hail the Son of Righteousness",
           "Light and life to all He brings",
           "Ris'n with healing in His wings",
           "Mild He lays His glory by",
@@ -171,20 +151,20 @@
         "label": "Verse 1",
         "lines": [
           "Silent night holy night",
-          "All is calm I’m singin’ all is bright",
-          "‘Round yon virgin mother and Child",
-          "Holy Infant so tender and mild",
+          "All is calm all is bright",
+          "'Round yon virgin mother and child",
+          "Holy infant so tender and mild",
           "Sleep in heavenly peace",
-          "Oh sleep in heavenly peace"
+          "Sleep in heavenly peace"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
           "Silent night holy night",
-          "Shepherds quake oh at the sight",
+          "Shepherds quake at the sight",
           "Glories stream from heaven afar",
-          "Heavenly hosts sing alleluia",
+          "Heav'nly hosts sing alleluia",
           "Christ the Savior is born",
           "Christ the Savior is born"
         ]
@@ -193,7 +173,17 @@
         "label": "Verse 3",
         "lines": [
           "Silent night holy night",
-          "Son of God oh love's pure light",
+          "Wondrous star lend thy light",
+          "With the angels let us sing",
+          "Christ the Savior is born",
+          "Christ the Savior is born"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "Silent night holy night",
+          "Son of God love's pure light",
           "Radiant beams from Thy holy face",
           "With the dawn of redeeming grace",
           "Jesus Lord at Thy birth",
@@ -289,7 +279,8 @@
           "O hear the angel voices",
           "O night divine",
           "O night when Christ was born",
-          "O night O holy night",
+          "O night divine",
+          "O night",
           "O night divine"
         ]
       },
@@ -340,39 +331,6 @@
     ]
   },
   {
-    "title": "Away In A Manger",
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "Away in a manger no crib for a bed",
-          "The little Lord Jesus laid down His sweet head",
-          "The stars in the bright sky look down where He lay",
-          "The little Lord Jesus asleep on the hay"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "The cattle are lowing the Baby awakes",
-          "But little Lord Jesus no crying He makes",
-          "I love Thee Lord Jesus look down from the sky",
-          "And stay by my cradle 'til morning is nigh"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "Be near me Lord Jesus I ask Thee to stay",
-          "Close by me forever and love me I pray",
-          "Bless all the dear children in Thy tender care",
-          "And fit us for Heaven to live with Thee there",
-          "And fit us for Heaven to live with Thee there"
-        ]
-      }
-    ]
-  },
-  {
     "title": "While Shepherds Watched",
     "lyrics": [
       {
@@ -389,7 +347,7 @@
         "label": "Verse 2",
         "lines": [
           "Fear not said he for mighty dread",
-          "Had seized their troubled mind",
+          "Had seized their troubled minds",
           "Glad tidings of great joy I bring",
           "To you and all mankind"
         ]
@@ -399,34 +357,25 @@
         "lines": [
           "To you in David's town this day",
           "Is born of David's line",
-          "A Saviour who is Christ the Lord",
+          "The Savior who is Christ the Lord",
           "And this shall be the sign"
         ]
       },
       {
         "label": "Verse 4",
         "lines": [
-          "The heavenly babe you there shall find",
+          "The heavenly Babe you there shall find",
           "To human view displayed",
-          "All meanly wrapped in swaddling bands",
+          "All meanly wrapped in swaddling clothes",
           "And in a manger laid"
         ]
       },
       {
         "label": "Verse 5",
         "lines": [
-          "Thus spake the seraph and forthwith",
-          "Appeared a shining throng",
-          "Of angels praising God who thus",
-          "Addressed their joyful song"
-        ]
-      },
-      {
-        "label": "Verse 6",
-        "lines": [
           "All glory be to God on high",
-          "And on the earth be peace",
-          "Goodwill hence forth",
+          "And to the earth be peace",
+          "Good will hence forth",
           "From heaven to men",
           "Begin and never cease"
         ]
@@ -500,13 +449,13 @@
           "O star of wonder star of night",
           "Star with royal beauty bright",
           "Westward leading still proceeding",
-          "Guide us to Thy perfect light"
+          "Guide us to Your perfect light"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "Born a King on Bethlehem's plain",
+          "Born a King on Bethlehem plain",
           "Gold I bring to crown Him again",
           "King forever ceasing never",
           "Over us all to reign"
@@ -517,8 +466,8 @@
         "lines": [
           "Frankincense to offer have I",
           "Incense owns a Deity nigh",
-          "Prayer and praising all men raising",
-          "Worship Him God on high"
+          "Prayer and praising gladly raising",
+          "Worshipping God on high"
         ]
       },
       {
@@ -536,7 +485,7 @@
           "Glorious now behold Him arise",
           "King and God and sacrifice",
           "Alleluia alleluia",
-          "Peals through the earth and skies"
+          "Sounds through the earth and skies"
         ]
       }
     ]
@@ -549,10 +498,10 @@
         "lines": [
           "Joy to the world the Lord is come",
           "Let earth receive her King",
-          "Let ev'ry heart prepare Him room",
-          "And heav'n and nature sing",
-          "And heav'n and nature sing",
-          "And heav'n and heav'n and nature sing"
+          "Let every heart prepare Him room",
+          "And heaven and nature sing",
+          "And heaven and nature sing",
+          "And heaven and heaven and nature sing"
         ]
       },
       {
