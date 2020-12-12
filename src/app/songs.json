@@ -1,163 +1,50 @@
 [
   {
-    "title": "O Come All Ye Faithful",
-    "arrangement": [
-      "Verse 1",
-      "Chorus",
-      "Verse 2",
-      "Chorus",
-      "Verse 3",
-      "Chorus"
-    ],
+    "title": "Joy To The World",
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
-          "O come all ye faithful",
-          "Joyful and triumphant",
-          "O come ye O come ye to Bethlehem",
-          "Come and behold Him",
-          "Born the King of angels"
-        ]
-      },
-      {
-        "label": "Chorus",
-        "lines": [
-          "O come let us adore Him",
-          "O come let us adore Him",
-          "O come let us adore Him",
-          "Christ the Lord"
+          "Joy to the world the Lord is come",
+          "Let earth receive her King",
+          "Let every heart prepare Him room",
+          "And heaven and nature sing",
+          "And heaven and nature sing",
+          "And heaven and heaven and nature sing"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "Sing choirs of angels",
-          "Sing in exultation",
-          "Sing all ye citizens",
-          "Of heav'n above",
-          "Glory to God",
-          "Glory in the highest"
+          "Joy to the earth the Savior reigns",
+          "Let men their songs employ",
+          "While fields and floods",
+          "Rocks hills and plains",
+          "Repeat the sounding joy",
+          "Repeat the sounding joy",
+          "Repeat repeat the sounding joy"
         ]
       },
       {
         "label": "Verse 3",
         "lines": [
-          "Yea Lord we greet Thee",
-          "Born this happy morning",
-          "Jesus to Thee be all glory giv'n",
-          "Word of the Father",
-          "Now in flesh appearing"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Angels From The Realms Of Glory ",
-    "arrangement": [
-      "Verse 1",
-      "Chorus",
-      "Verse 2",
-      "Chorus",
-      "Verse 3",
-      "Chorus",
-      "Verse 4",
-      "Chorus"
-    ],
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "Angels from the realms of glory",
-          "Wing your flight o'er all the earth",
-          "You who sang creation's story",
-          "Now proclaim Messiah's birth"
-        ]
-      },
-      {
-        "label": "Chorus",
-        "lines": [
-          "Come and worship",
-          "Christ the newborn King",
-          "Come and worship",
-          "Worship Christ the newborn King"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "Shepherds in the field abiding",
-          "Watching o'er your flocks by night",
-          "God with us is now residing",
-          "Yonder shines the infant light"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "Saints before the altar bending",
-          "Watching long in hope and fear",
-          "Suddenly the Lord descending",
-          "In His temple shall appear"
+          "No more let sins and sorrows grow",
+          "Nor thorns infest the ground",
+          "He comes to make His blessings flow",
+          "Far as the curse is found",
+          "Far as the curse is found",
+          "Far as far as the curse is found"
         ]
       },
       {
         "label": "Verse 4",
         "lines": [
-          "Though an infant now we view Him",
-          "He shall fill His Father's throne",
-          "Gather all the nations to Him",
-          "Every knee shall then bow down"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Hark The Herald Angels Sing",
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "Hark the herald angels sing",
-          "Glory to the newborn King",
-          "Peace on earth and mercy mild",
-          "God and sinners reconciled",
-          "Joyful all ye nations rise",
-          "Join the triumph of the skies",
-          "With angelic hosts proclaim",
-          "Christ is born in Bethlehem",
-          "Hark the herald angels sing",
-          "Glory to the newborn King"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "Christ by highest heav'n adored",
-          "Christ the everlasting Lord",
-          "Late in time behold Him come",
-          "Offspring of the Virgin's womb",
-          "Veiled in flesh the Godhead see",
-          "Hail th'incarnate Deity",
-          "Pleased as man with men to dwell",
-          "Jesus our Emmanuel",
-          "Hark the herald angels sing",
-          "Glory to the newborn King"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "Hail the heav'n-born Prince of Peace",
-          "Hail the Son of Righteousness",
-          "Light and life to all He brings",
-          "Ris'n with healing in His wings",
-          "Mild He lays His glory by",
-          "Born that man no more may die",
-          "Born to raise the sons of earth",
-          "Born to give them second birth",
-          "Hark the herald angels sing",
-          "Glory to the newborn King"
+          "He rules the world with truth and grace",
+          "And makes the nations prove",
+          "The glories of His righteousness",
+          "And wonders of His love",
+          "And wonders of His love",
+          "And wonders wonders of His love"
         ]
       }
     ]
@@ -211,67 +98,103 @@
     ]
   },
   {
-    "title": "On That Very First Christmas",
+    "title": "While Shepherds Watched",
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
-          "Mary and Joseph go to Bethlehem",
-          "Bethlehem",
-          "Bethlehem",
-          "Mary and Joseph go to Bethlehem",
-          "On that very first Christmas"
+          "While shepherds watched",
+          "Their flocks by night",
+          "All seated on the ground",
+          "The angel of the Lord came down",
+          "And glory shone around"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "Baby Jesus born that night",
-          "Born that night",
-          "Born that night",
-          "Baby Jesus born that night",
-          "On that very first Christmas"
+          "Fear not said he for mighty dread",
+          "Had seized their troubled minds",
+          "Glad tidings of great joy I bring",
+          "To you and all mankind"
         ]
       },
       {
         "label": "Verse 3",
         "lines": [
-          "The wise men come to worship Him",
-          "Worship Him",
-          "Worship Him",
-          "The wise men come to worship Him",
-          "On that very first Christmas"
+          "To you in David's town this day",
+          "Is born of David's line",
+          "The Savior who is Christ the Lord",
+          "And this shall be the sign"
         ]
       },
       {
         "label": "Verse 4",
         "lines": [
-          "The shepherds told that the King is born",
-          "The King is born",
-          "The King is born",
-          "The shepherds told that the King is born",
-          "On that very first Christmas"
+          "The heavenly Babe you there shall find",
+          "To human view displayed",
+          "All meanly wrapped in swaddling clothes",
+          "And in a manger laid"
         ]
       },
       {
         "label": "Verse 5",
         "lines": [
-          "The angels singing glory to God",
-          "Glory to God",
-          "Glory to God",
-          "The angels singing glory to God",
-          "On that very first Christmas"
+          "All glory be to God on high",
+          "And to the earth be peace",
+          "Good will hence forth",
+          "From heaven to men",
+          "Begin and never cease"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hark The Herald Angels Sing",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Hark the herald angels sing",
+          "Glory to the newborn King",
+          "Peace on earth and mercy mild",
+          "God and sinners reconciled",
+          "Joyful all ye nations rise",
+          "Join the triumph of the skies",
+          "With angelic hosts proclaim",
+          "Christ is born in Bethlehem",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
         ]
       },
       {
-        "label": "Verse 6",
+        "label": "Verse 2",
         "lines": [
-          "Mary and Joseph go to Bethlehem",
-          "Baby Jesus born that night",
-          "The wise men come to worship Him",
-          "The shepherds told that the King is born",
-          "The angels singing glory to God",
-          "On that very first Christmas"
+          "Christ by highest heav'n adored",
+          "Christ the everlasting Lord",
+          "Late in time behold Him come",
+          "Offspring of the Virgin's womb",
+          "Veiled in flesh the Godhead see",
+          "Hail th'incarnate Deity",
+          "Pleased as man with men to dwell",
+          "Jesus our Emmanuel",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Hail the heav'n-born Prince of Peace",
+          "Hail the Son of Righteousness",
+          "Light and life to all He brings",
+          "Ris'n with healing in His wings",
+          "Mild He lays His glory by",
+          "Born that man no more may die",
+          "Born to raise the sons of earth",
+          "Born to give them second birth",
+          "Hark the herald angels sing",
+          "Glory to the newborn King"
         ]
       }
     ]
@@ -349,108 +272,7 @@
     ]
   },
   {
-    "title": "While Shepherds Watched",
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "While shepherds watched",
-          "Their flocks by night",
-          "All seated on the ground",
-          "The angel of the Lord came down",
-          "And glory shone around"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "Fear not said he for mighty dread",
-          "Had seized their troubled minds",
-          "Glad tidings of great joy I bring",
-          "To you and all mankind"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "To you in David's town this day",
-          "Is born of David's line",
-          "The Savior who is Christ the Lord",
-          "And this shall be the sign"
-        ]
-      },
-      {
-        "label": "Verse 4",
-        "lines": [
-          "The heavenly Babe you there shall find",
-          "To human view displayed",
-          "All meanly wrapped in swaddling clothes",
-          "And in a manger laid"
-        ]
-      },
-      {
-        "label": "Verse 5",
-        "lines": [
-          "All glory be to God on high",
-          "And to the earth be peace",
-          "Good will hence forth",
-          "From heaven to men",
-          "Begin and never cease"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Once In Royal David's City",
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "Once in royal David's city",
-          "Stood a lowly cattle shed",
-          "Where a mother laid her baby",
-          "In a manger for His bed",
-          "Mary was that mother mild",
-          "Jesus Christ her little child"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "He came down to earth from heaven",
-          "Who is God and Lord of all",
-          "And His shelter was a stable",
-          "And His cradle was a stall",
-          "With the poor and meek and lowly",
-          "Lived on earth our Savior holy"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "Jesus is our childhood's pattern",
-          "Day by day like us He grew",
-          "He was little weak and helpless",
-          "Tears and smiles like us He knew",
-          "And He feels for all our sadness",
-          "And He shares in all our gladness"
-        ]
-      },
-      {
-        "label": "Verse 4",
-        "lines": [
-          "And our eyes at last shall see Him",
-          "Through His own redeeming love",
-          "For that child so dear and gentle",
-          "Is our Lord in heaven above",
-          "And He leads His children on",
-          "To the place where He has gone"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "We Three Kings",
+    "title": "Angels From The Realms Of Glory ",
     "arrangement": [
       "Verse 1",
       "Chorus",
@@ -459,113 +281,105 @@
       "Verse 3",
       "Chorus",
       "Verse 4",
-      "Chorus",
-      "Verse 5",
       "Chorus"
     ],
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
-          "We three kings of Orient are",
-          "Bearing gifts we traverse afar",
-          "Field and fountain moor and mountain",
-          "Following yonder star"
+          "Angels from the realms of glory",
+          "Wing your flight o'er all the earth",
+          "You who sang creation's story",
+          "Now proclaim Messiah's birth"
         ]
       },
       {
         "label": "Chorus",
         "lines": [
-          "O star of wonder star of night",
-          "Star with royal beauty bright",
-          "Westward leading still proceeding",
-          "Guide us to Your perfect light"
+          "Come and worship",
+          "Christ the newborn King",
+          "Come and worship",
+          "Worship Christ the newborn King"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "Born a King on Bethlehem plain",
-          "Gold I bring to crown Him again",
-          "King forever ceasing never",
-          "Over us all to reign"
+          "Shepherds in the field abiding",
+          "Watching o'er your flocks by night",
+          "God with us is now residing",
+          "Yonder shines the infant light"
         ]
       },
       {
         "label": "Verse 3",
         "lines": [
-          "Frankincense to offer have I",
-          "Incense owns a Deity nigh",
-          "Prayer and praising gladly raising",
-          "Worshipping God on high"
+          "Saints before the altar bending",
+          "Watching long in hope and fear",
+          "Suddenly the Lord descending",
+          "In His temple shall appear"
         ]
       },
       {
         "label": "Verse 4",
         "lines": [
-          "Myrrh is mine its bitter perfume",
-          "Breathes a life of gathering gloom",
-          "Sorrowing sighing bleeding dying",
-          "Sealed in the stone cold tomb"
-        ]
-      },
-      {
-        "label": "Verse 5",
-        "lines": [
-          "Glorious now behold Him arise",
-          "King and God and sacrifice",
-          "Alleluia alleluia",
-          "Sounds through the earth and skies"
+          "Though an infant now we view Him",
+          "He shall fill His Father's throne",
+          "Gather all the nations to Him",
+          "Every knee shall then bow down"
         ]
       }
     ]
   },
   {
-    "title": "Joy To The World",
+    "title": "O Come All Ye Faithful",
+    "arrangement": [
+      "Verse 1",
+      "Chorus",
+      "Verse 2",
+      "Chorus",
+      "Verse 3",
+      "Chorus"
+    ],
     "lyrics": [
       {
         "label": "Verse 1",
         "lines": [
-          "Joy to the world the Lord is come",
-          "Let earth receive her King",
-          "Let every heart prepare Him room",
-          "And heaven and nature sing",
-          "And heaven and nature sing",
-          "And heaven and heaven and nature sing"
+          "O come all ye faithful",
+          "Joyful and triumphant",
+          "O come ye O come ye to Bethlehem",
+          "Come and behold Him",
+          "Born the King of angels"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "Christ the Lord"
         ]
       },
       {
         "label": "Verse 2",
         "lines": [
-          "Joy to the earth the Savior reigns",
-          "Let men their songs employ",
-          "While fields and floods",
-          "Rocks hills and plains",
-          "Repeat the sounding joy",
-          "Repeat the sounding joy",
-          "Repeat repeat the sounding joy"
+          "Sing choirs of angels",
+          "Sing in exultation",
+          "Sing all ye citizens",
+          "Of heav'n above",
+          "Glory to God",
+          "Glory in the highest"
         ]
       },
       {
         "label": "Verse 3",
         "lines": [
-          "No more let sins and sorrows grow",
-          "Nor thorns infest the ground",
-          "He comes to make His blessings flow",
-          "Far as the curse is found",
-          "Far as the curse is found",
-          "Far as far as the curse is found"
-        ]
-      },
-      {
-        "label": "Verse 4",
-        "lines": [
-          "He rules the world with truth and grace",
-          "And makes the nations prove",
-          "The glories of His righteousness",
-          "And wonders of His love",
-          "And wonders of His love",
-          "And wonders wonders of His love"
+          "Yea Lord we greet Thee",
+          "Born this happy morning",
+          "Jesus to Thee be all glory giv'n",
+          "Word of the Father",
+          "Now in flesh appearing"
         ]
       }
     ]
