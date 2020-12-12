@@ -3,11 +3,11 @@
 <div>
   <app-banner></app-banner>
 
-  <div class="container">
-    <div *ngFor="let song of songs; let i = index">
+  <div class="container pb-5">
+    <ng-container *ngFor="let song of songs; let i = index">
       <app-song [song]="song"></app-song>
       <hr *ngIf="i !== songs.length - 1" />
-    </div>
+    </ng-container>
   </div>
   <app-footer></app-footer>
 </div>

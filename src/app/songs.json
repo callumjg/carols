@@ -383,5 +383,30 @@
         ]
       }
     ]
+  },
+  {
+    "title": "We Wish You A Merry Christmas",
+    "arrangement": ["Verse", "Chorus", "Verse", "Chorus", "End"],
+    "lyrics": [
+      {
+        "label": "Verse",
+        "lines": [
+          "We wish you a merry Christmas",
+          "We wish you a merry Christmas",
+          "We wish you a merry Christmas and a happy new year"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "Good tidings we bring to you and your kin",
+          "We wish you a merry Christmas and a happy new year"
+        ]
+      },
+      {
+        "label": "End",
+        "lines": ["We wish you a merry Christmas and a happy new year"]
+      }
+    ]
   }
 ]
