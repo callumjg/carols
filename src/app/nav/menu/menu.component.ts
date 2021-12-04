@@ -1,11 +1,5 @@
 import { DOCUMENT } from '@angular/common';
-import {
-  Component,
-  EventEmitter,
-  Inject,
-  Input,
-  Output,
-} from '@angular/core';
+import { Component, EventEmitter, Inject, Input, Output } from '@angular/core';
 
 @Component({
   selector: 'app-menu',
@@ -22,6 +16,6 @@ export class MenuComponent {
   onSongSelect(title) {
     const el = this.document.getElementById(title);
     this.isOpenChange.emit(false);
-    el.scrollIntoView();
+    el.scrollIntoView({ behavior: 'smooth' });
   }
 }
