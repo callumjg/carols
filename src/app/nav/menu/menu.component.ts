@@ -4,7 +4,6 @@ import {
   EventEmitter,
   Inject,
   Input,
-  OnInit,
   Output,
 } from '@angular/core';
 
@@ -13,18 +12,16 @@ import {
   templateUrl: './menu.component.html',
   styleUrls: ['./menu.component.css'],
 })
-export class MenuComponent implements OnInit {
+export class MenuComponent {
   @Input() isOpen;
   @Output() isOpenChange = new EventEmitter<boolean>();
   @Input() songs;
 
   constructor(@Inject(DOCUMENT) private document: Document) {}
 
-  ngOnInit(): void {}
-
   onSongSelect(title) {
     const el = this.document.getElementById(title);
-    el.scrollIntoView();
     this.isOpenChange.emit(false);
+    el.scrollIntoView();
   }
 }
