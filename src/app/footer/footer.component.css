@@ -8,7 +8,6 @@ iframe {
 }
 
 .cta {
-
   background-image: url("../../assets/gbh3.jpg");
   background-position: 25% 92%;
   background-size: 100% auto;
@@ -20,34 +19,32 @@ iframe {
   box-sizing: content-box;
 }
 
-
 .card-body {
   z-index: 999;
   width: 100%;
   height: 100%;
   padding: 5rem;
   background: rgb(255, 255, 255);
-  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 5%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 5%,
+    rgba(255, 255, 255, 0) 100%
+  );
   margin: 0;
 }
 
 .cta h1 {
   z-index: 99;
-  color: #DB5E42;
+  color: #db5e42;
   font-size: 34pt;
   margin-bottom: 1rem;
-
 }
 
-
 a {
-  background-color: #DB5E42;
-  border-color: #DB5E42;
+  background-color: #db5e42;
+  border-color: #db5e42;
   color: white;
   font-size: 18pt;
-  /* position: absolute; */
-  /* left: 12%; */
-  /* bottom: 25%; */
 }
 
 a ion-icon {
@@ -55,7 +52,6 @@ a ion-icon {
   transition: width 100ms ease-in-out;
   position: relative;
   top: 0.2rem;
-
 }
 
 a:hover ion-icon {
@@ -65,9 +61,8 @@ a:hover ion-icon {
 
 a:hover {
   background-color: rgb(196, 82, 56);
-  border-color: #DB5E42;
+  border-color: #db5e42;
   color: white;
-
 }
 
 a:active,
@@ -75,14 +70,11 @@ a:focus {
   outline-color: rgba(219, 94, 66, 0.5) !important;
   box-shadow: none !important;
   color: white;
-
 }
-
 
 @media only screen and (max-width: 760px) {
   .cta {
     background-size: auto 120%;
-
   }
 
   .card-body {
