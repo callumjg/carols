@@ -7,6 +7,5 @@ import songs from './songs.json';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'carols';
   songs = songs;
 }

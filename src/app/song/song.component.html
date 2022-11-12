@@ -1,5 +1,5 @@
-<div class="song" [id]="song.title">
-  <h2>{{ song.title }}</h2>
+<div class="song" [id]="title">
+  <h2>{{ title }}</h2>
   <br />
-  <app-stanza *ngFor="let stanza of arrangement" [stanza]="stanza"></app-stanza>
+  <app-stanza *ngFor="let lyric of lyrics" [stanza]="lyric"></app-stanza>
 </div>
