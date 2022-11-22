@@ -5,6 +5,6 @@ git stash
 git checkout master
 git pull
 yarn
-yarn build --prod=true
+yarn build
 rm -rf /var/www/html/*
 cp -r dist/carols/* /var/www/html/
