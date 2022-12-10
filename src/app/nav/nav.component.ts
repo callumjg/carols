@@ -1,5 +1,6 @@
 import { DOCUMENT } from '@angular/common';
 import { Component, Inject, Input } from '@angular/core';
+import scrollIntoView from 'scroll-into-view-if-needed';
 
 @Component({
   selector: 'app-nav',
@@ -26,7 +27,10 @@ export class NavComponent {
     this.isOpen = false;
     const el = this.document.getElementById(title);
     setTimeout(() => {
-      el.scrollIntoView({ behavior: 'smooth' });
+      scrollIntoView(el, {
+        behavior: 'smooth',
+        block: 'start',
+      });
     }, 0);
   }
 }
