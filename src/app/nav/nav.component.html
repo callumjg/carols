@@ -1,5 +1,12 @@
-<!-- <app-menu></app-menu> -->
 <nav>
   <app-toggle [(isOpen)]="isOpen"></app-toggle>
-  <app-menu [(isOpen)]="isOpen" [songs]="songs"></app-menu>
+  <div class="nav-menu" [ngClass]="{ open: isOpen }">
+    <ul>
+      <li (click)="onSongSelect('Top')">Scroll to top</li>
+      <li *ngFor="let song of songs" (click)="onSongSelect(song.title)">
+        {{ song.title }}
+      </li>
+      <li (click)="onSongSelect('About Us')">About Us</li>
+    </ul>
+  </div>
 </nav>

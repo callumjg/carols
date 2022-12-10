@@ -1,9 +1,0 @@
-<div [ngClass]="{ 'app-menu': true, open: isOpen }">
-  <ul>
-    <li (click)="onSongSelect('Top')">Scroll to top</li>
-    <li *ngFor="let song of songs" (click)="onSongSelect(song.title)">
-      {{ song.title }}
-    </li>
-    <li (click)="onSongSelect('About Us')">About Us</li>
-  </ul>
-</div>

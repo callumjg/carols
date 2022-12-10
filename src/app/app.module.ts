@@ -6,7 +6,6 @@ import { SongComponent } from './song/song.component';
 import { StanzaComponent } from './song/stanza/stanza.component';
 import { NavComponent } from './nav/nav.component';
 import { ToggleComponent } from './nav/toggle/toggle.component';
-import { MenuComponent } from './nav/menu/menu.component';
 import { FooterComponent } from './footer/footer.component';
 import { IconPanelComponent } from './icon-panel/icon-panel.component';
 import { BannerComponent } from './banner/banner.component';
@@ -18,7 +17,6 @@ import { BannerComponent } from './banner/banner.component';
     StanzaComponent,
     NavComponent,
     ToggleComponent,
-    MenuComponent,
     FooterComponent,
     IconPanelComponent,
     BannerComponent,

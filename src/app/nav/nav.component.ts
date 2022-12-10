@@ -1,26 +1,32 @@
 import { DOCUMENT } from '@angular/common';
-import { Component, Inject, Input, OnInit } from '@angular/core';
+import { Component, Inject, Input } from '@angular/core';
 
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
   styleUrls: ['./nav.component.css'],
 })
-export class NavComponent implements OnInit {
+export class NavComponent {
+  @Input() songs;
+
   private _isOpen = false;
+
   @Input() set isOpen(v) {
-    this._isOpen = v;
     const overflow = v ? 'hidden' : '';
     this.document.body.style.overflow = overflow;
+    this._isOpen = v;
   }
-
-  @Input() songs;
+  get isOpen() {
+    return this._isOpen;
+  }
 
   constructor(@Inject(DOCUMENT) private document: Document) {}
 
-  ngOnInit(): void {}
-
-  get isOpen() {
-    return this._isOpen;
+  onSongSelect(title) {
+    this.isOpen = false;
+    const el = this.document.getElementById(title);
+    setTimeout(() => {
+      el.scrollIntoView({ behavior: 'smooth' });
+    }, 0);
   }
 }
