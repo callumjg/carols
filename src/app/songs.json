@@ -103,6 +103,93 @@
     ]
   },
   {
+    "title": "The Virgin Mary Had A Baby Boy",
+    "arrangement": [
+      "Verse 1",
+      "Chorus",
+      "Verse 2",
+      "Chorus",
+      "Verse 3",
+      "Chorus"
+    ],
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "The Virgin Mary had a baby boy",
+          "The Virgin Mary had a baby boy",
+          "The Virgin Mary had a baby boy",
+          "And they said that His name was Jesus"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          "He come from the glory",
+          "He come from the glorious kingdom",
+          "He come from the glory",
+          "He come from the glorious kingdom",
+          "Oh yes believer oh yes believer",
+          "He come from the glory",
+          "He come from the glorious kingdom"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "The angels sang when the baby born",
+          "The angels sang when the baby born",
+          "The angels sang when the baby born",
+          "And proclaimed Him the Saviour Jesus"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "The wise men saw where the baby born",
+          "The wise men saw where the baby born",
+          "The wise men saw where the baby born",
+          "And they saw that His name was Jesus"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Away In A Manger",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "Away in a manger no crib for a bed",
+          "The little Lord Jesus",
+          "laid down His sweet head",
+          "The stars in the bright sky",
+          "looked down where He lay",
+          "The little Lord Jesus asleep on the hay"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "The cattle are lowing the baby awakes",
+          "But little Lord Jesus no crying He makes",
+          "I love You Lord Jesus",
+          "look down from the sky",
+          "And stay by my side until morning is nigh"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "Be near me Lord Jesus I ask You to stay",
+          "Close by me forever and love me I pray",
+          "Bless all the dear children in Your tender care",
+          "And fit us for heaven to live with You there"
+        ]
+      }
+    ]
+  },
+  {
     "title": "O Little Town of Bethlehem",
     "lyrics": [
       {
@@ -124,7 +211,7 @@
           "For Christ is born of Mary",
           "And gathered all above",
           "While mortals sleep the angels keep",
-          "Their watch of wond'ring love",
+          "Their watch of wondering love",
           "O morning stars together",
           "Proclaim the holy birth",
           "And praises sing to God the King",
@@ -135,9 +222,9 @@
         "label": "Verse 3",
         "lines": [
           "How silently how silently",
-          "The wondrous gift is giv'n",
+          "The wondrous gift is given",
           "So God imparts to human hearts",
-          "The blessings of His heav'n",
+          "The blessings of His heaven",
           "No ear may hear His coming",
           "But in this world of sin",
           "Where meek souls will receive Him still",
@@ -147,7 +234,7 @@
       {
         "label": "Verse 4",
         "lines": [
-          "O holy Child of Bethlehem",
+          "O holy child of Bethlehem",
           "Descend to us we pray",
           "Cast out our sin and enter in",
           "Be born in us today",
@@ -304,62 +391,10 @@
       {
         "label": "Verse 4",
         "lines": [
-          "O come Desire of nations, bind",
+          "O come Desire of nations bind",
           "All peoples in one heart and mind",
           "Bid envy strife and quarrels cease",
           "Fill the whole world with heaven's peace"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "While Shepherds Watched",
-    "lyrics": [
-      {
-        "label": "Verse 1",
-        "lines": [
-          "While shepherds watched",
-          "Their flocks by night",
-          "All seated on the ground",
-          "The angel of the Lord came down",
-          "And glory shone around"
-        ]
-      },
-      {
-        "label": "Verse 2",
-        "lines": [
-          "Fear not said he for mighty dread",
-          "Had seized their troubled minds",
-          "Glad tidings of great joy I bring",
-          "To you and all mankind"
-        ]
-      },
-      {
-        "label": "Verse 3",
-        "lines": [
-          "To you in David's town this day",
-          "Is born of David's line",
-          "The Savior who is Christ the Lord",
-          "And this shall be the sign"
-        ]
-      },
-      {
-        "label": "Verse 4",
-        "lines": [
-          "The heavenly Babe you there shall find",
-          "To human view displayed",
-          "All meanly wrapped in swaddling clothes",
-          "And in a manger laid"
-        ]
-      },
-      {
-        "label": "Verse 5",
-        "lines": [
-          "All glory be to God on high",
-          "And to the earth be peace",
-          "Good will hence forth",
-          "From heaven to men",
-          "Begin and never cease"
         ]
       }
     ]
@@ -411,6 +446,117 @@
           "Hark the herald angels sing",
           "Glory to the newborn King"
         ]
+      }
+    ]
+  },
+  {
+    "title": "While Shepherds Watched",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "While shepherds watched",
+          "Their flocks by night",
+          "All seated on the ground",
+          "The angel of the Lord came down",
+          "And glory shone around"
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "\"Fear not\" said he for mighty dread",
+          "Had seized their troubled minds",
+          "\"Glad tidings of great joy I bring",
+          "To you and all mankind\""
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "\"To you in David's town this day",
+          "Is born of David's line",
+          "The Savior who is Christ the Lord",
+          "And this shall be the sign:\""
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "\"The heavenly Babe you there shall find",
+          "To human view displayed",
+          "All meekly wrapped in swaddling clothes",
+          "And in a manger laid\""
+        ]
+      },
+      {
+        "label": "Verse 5",
+        "lines": [
+          "All glory be to God on high",
+          "And to the earth be peace",
+          "Good will hence forth",
+          "From heaven to men",
+          "Begin and never cease"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The First Noel",
+    "arrangement": [
+      "Verse 1",
+      "Chorus",
+      "Verse 2",
+      "Chorus",
+      "Verse 3",
+      "Chorus",
+      "Verse 4",
+      "Chorus x2"
+    ],
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          "The first Noel the angel did say",
+          "Was to certain poor shepherds in fields as they lay",
+          "In fields where they lay keeping their sheep",
+          "On a cold winter's night that was so deep"
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": ["Noel Noel Noel Noel", "Born is the King of Israel"]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          "Then wise men from a country far",
+          "Looked up and saw a guiding star",
+          "They traveled on by night and day",
+          "To reach the place where Jesus lay"
+        ]
+      },
+      {
+        "label": "Verse 3",
+        "lines": [
+          "At Bethlehem they entered in",
+          "On bended knee they worshipped him",
+          "They offered there in his presence",
+          "Their gold and myrrh and frankincense"
+        ]
+      },
+      {
+        "label": "Verse 4",
+        "lines": [
+          "And let us all with one accord",
+          "Sing praises to our heavenly lord",
+          "For Christ has our salvation wrought",
+          "And with his blood our life has bought"
+        ]
+      },
+      {
+        "label": "Chorus x2",
+        "lines": ["Noel Noel Noel Noel", "Born is the King of Israel"]
       }
     ]
   },
@@ -481,7 +627,15 @@
           "His power and glory",
           "Evermore proclaim",
           "His power and glory",
-          "Evermore proclaim"
+          "Evermore proclaim",
+          "",
+          "Fall on your knees",
+          "O hear the angel voices",
+          "O night divine",
+          "O night when Christ was born",
+          "O night",
+          "O holy night",
+          "O night divine"
         ]
       }
     ]
