@@ -47,6 +47,10 @@ a {
   font-size: 18pt;
 }
 
+a.btn-find-us-online {
+  margin-right: 0.5rem;
+}
+
 a ion-icon {
   width: 0;
   transition: width 100ms ease-in-out;
